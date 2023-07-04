@@ -1,0 +1,17 @@
+
+.content {
+    margin-bottom: 80px;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+div {
+    display: block;
+}
+body, html {
+    background-repeat: repeat;
+    font-family: 'PT Sans', sans-serif;
+}
+.contact-container{
+    border: 2px;
+}
